@@ -1,0 +1,7 @@
+name = "deepli"
+main = "index.js"
+compatibility_date = "2026-09-17"
+compatibility_flags = ["nodejs_compat"]
+
+[ai]
+binding = "AI"
